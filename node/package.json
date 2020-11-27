@@ -1,0 +1,17 @@
+{
+  "name": "basicapi",
+  "version": "1.0.0",
+  "description": "Basic crud api with express and node",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "uuid": "^8.3.0"
+  }
+}
